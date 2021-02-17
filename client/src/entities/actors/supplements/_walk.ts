@@ -1,0 +1,1 @@
+export default function(actor: any) {actor.speed = 1}
